@@ -25,7 +25,6 @@ body{
 }
 .centrado{
   background: -webkit-linear-gradient(to right, #093028, #237a57);
-
   background: linear-gradient(to right,  #093028, #237a57);
     height: 100vh;
     display: flex;
