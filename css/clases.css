@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+
+
+.contener{
+    font-size: 30px;
+    font-family: 'Anton', sans-serif;
+}
+
+
+
+
+@media (max-width:768px){
+    .contener{
+        font-size: 30px;
+        font-family: 'Anton', sans-serif;
+    }
+
+}

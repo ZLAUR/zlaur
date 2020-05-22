@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Fjalla+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Fjalla+One&family=Libre+Franklin:ital,wght@1,100&display=swap');
+
+body{
+    background: -webkit-linear-gradient(to right, #42275a, #734b6d);
+
+    background: linear-gradient(to right,  #42275a, #734b6d);
+}
+
+.clase{
+    width: 30%;
+    background-color: #ffffff;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none;
+    list-style: none;
+}
+
+a{
+    list-style: none;
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Anton', sans-serif;
+    list-style: none;
+}
+
+@media (max-width:768px){
+    .clase{
+        width: 90%;
+        background-color: #ffffff;
+        margin: auto;
+        text-align: center;
+        border-radius: 10px;
+        text-decoration: none;
+    
+    }
+    a{
+        list-style: none;
+        text-align: center;
+        font-size: 30px;
+        font-family: 'Anton', sans-serif;
+        list-style: none;
+    }
+
+}
