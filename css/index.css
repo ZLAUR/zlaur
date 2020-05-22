@@ -24,8 +24,10 @@ body{
     overflow: hidden;
 }
 .centrado{
+  background: -webkit-linear-gradient(to right, #093028, #237a57);
+
+  background: linear-gradient(to right,  #093028, #237a57);
     height: 100vh;
-    background-color: black;
     display: flex;
     justify-content: center;
     align-items: center;
