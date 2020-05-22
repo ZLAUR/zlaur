@@ -17,7 +17,13 @@
     border-radius: 5px; 
 }
 
-
+.class{
+    width: 30%;
+    
+}
+video{
+    width: 100%;
+}
 
 .padre{
     width: 60%;
