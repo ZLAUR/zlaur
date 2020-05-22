@@ -5,12 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="css/video.css">
+    <link rel="stylesheet" href="css/preloader.css">
     <link rel="stylesheet" href="css/menudeclases.css">
     <link rel="icon" href="Img/PIRATA2.0.ico" type="image/png" /> 
     <meta name="theme-color" content="#282147" />
     <title>Zlaur Class</title>
 </head>
-<body>
+<body class="hidden">
+
+<div class="centrado" id="onload">
+    <div class="lds-ring">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+</div>
+
+
     <header>
         <div class="menu"> Zlaur Class</div>
         <h6>UNIDAD EDUCATIVA PIMAMPIRO</h6>
@@ -52,6 +64,8 @@
     <footer>
         <h5>Todos los derechos reservados &copy;2020</h5>
     </footer>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="js/c-falta.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
     <script src="js/alerta.js"></script>
 </body>
