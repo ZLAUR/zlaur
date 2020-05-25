@@ -12,6 +12,9 @@
 .icon-uep:before { content: '\e80a'; } /* '' */
 .icon-warehouse:before { content: '\e840'; } /* '' */
 .icon-facebook:before { content: '\f09a'; } /* '' */
+.icon-github-circled:before { content: '\f09b'; } /* '' */
 .icon-menu:before { content: '\f0c9'; } /* '' */
+.icon-github:before { content: '\f113'; } /* '' */
 .icon-codeopen:before { content: '\f1cb'; } /* '' */
 .icon-whatsapp:before { content: '\f232'; } /* '' */
+.icon-github-squared:before { content: '\f300'; } /* '' */
